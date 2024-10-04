@@ -10,7 +10,7 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 - � I’m currently learning blockchain technologies
 - � I’m looking to help with building defi and web apps
 - � Ask me about web and blockchain development
-- � How to reach me: audricus2019@gmail.com
+- � How to reach me: jackielowens16@gmail.com
 - � Pronouns: He/His
 - ⚡ Fun fact: ...
 
