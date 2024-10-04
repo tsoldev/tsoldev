@@ -55,4 +55,4 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 
 ### Find me elsewhere �
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/audricus-p-26b817185/)](https://www.linkedin.com/in/audricus-p-26b817185/)
+...
