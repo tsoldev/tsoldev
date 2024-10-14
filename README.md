@@ -3,7 +3,7 @@
 Hi. I am a full-stack engineer with a vast array of knowledge in many different industries like Blockchain(Bitcoin, Ethereum, Solidity, Rust), JavaScript/Typescript (React, Next.js, Vue.js, TensorFlow.js, Node, Deno), Python among others.
 I am dedicated to perfecting my craft by learning from seasoned developers and I believe that my understanding of working as a team are skills that will contribute to my overall success as a developer.
 
-Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
+I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
