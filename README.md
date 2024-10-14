@@ -54,5 +54,5 @@ I passionate about blockchain technologies so that I'm mainly focusing on the De
 
 ### Find me elsewhere �
 
-Linkedin: https://www.linkedin.com/in/douglas-muralha-1a251b11/
+Linkedin: [https://www.linkedin.com/in/douglas-muralha-1a251b11/](https://www.linkedin.com/in/maicon-muralha-1a251b11/)
 ...
