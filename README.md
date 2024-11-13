@@ -9,7 +9,7 @@ I passionate about blockchain technologies so that I'm mainly focusing on the De
 
 - � I’m looking to help with building defi and web apps
 - � Ask me about web and blockchain development
-- � How to reach me: mrmuralha459@gmail.com
+- � How to reach me: ezetfinance@gmail.com
 - � Pronouns: He/His
 - ⚡ Fun fact: ...
 
